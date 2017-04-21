@@ -1,0 +1,8 @@
+[Activity]
+name = SurfingNow
+bundle_id = org.laptop.martinlinux.SurfingNow
+exec = sugar-activity activity.SurfingNow
+icon = icon
+activity_version = 2
+show_launcher = yes
+
